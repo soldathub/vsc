@@ -1,0 +1,57 @@
+.btn {
+    height: 40px;
+    font-size: 18px;
+    background-color: rgb(5, 40, 94);
+    border-radius: 30px;
+    border: 2px solid black;
+    color: white;  
+}
+
+.card {
+    background-color: aliceblue;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;  
+}
+
+#alt_card {
+    margin: 20px;
+    padding: 0px;
+}
+
+#alt_btn {
+    height: auto;
+    font-style: oblique;
+    background-color: rgb(5, 40, 94);
+    border-radius: 30px;
+    border: 2px solid black;
+}
+
+input {
+    height: auto;
+    border-radius: 30px;
+    border: 2px solid black;
+}
+
+@font-face {
+    font-family: "Hubballi-Regular";
+    src: url("../site/fonts/Hubballi-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: "Hubballi-Regular";
+}
+
+@font-face {
+    font-family: "Exo 2";
+    src: url("../site/fonts/Exo2-VariableFont_wght.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+p {
+    font-family: "Exo 2";
+}
